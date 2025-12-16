@@ -8,6 +8,10 @@ $folders = @(
  "$base\barcos",
  "$base\bicicletas\bh",
  "$base\bicicletas\orbea",
+ "$base\bicicletas\giant",
+ "$base\bicicletas\trek",
+ "$base\bicicletas\bianchi",
+ "$base\bicicletas\specialized",
  "$base\coches"
 )
 
